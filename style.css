@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(43, 43, 43);
+    font-family: 'Papyrus';
+    background-size: cover;
+    text-align: center;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+}
+.heading {
+    font-size: 23px;
+    width: 100%;
+    background: linear-gradient(rgb(240, 128, 231) 0%, rgb(216, 48, 208) 100%);
+    margin: 0px;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+#song_name{
+    font-size: 20px;
+    margin: 15px;
+    background: linear-gradient(rgb(93, 240, 118) 0%, rgb(38, 177, 112) 100%);
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 18px grey;
+}
